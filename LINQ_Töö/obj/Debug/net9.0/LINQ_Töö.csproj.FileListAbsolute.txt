@@ -1,0 +1,14 @@
+C:\Users\opilane\source\repos\IKTpe25TarProgemine1\03.03.2026\LINQ_Töö\LINQ_Töö\bin\Debug\net9.0\LINQ_Töö.exe
+C:\Users\opilane\source\repos\IKTpe25TarProgemine1\03.03.2026\LINQ_Töö\LINQ_Töö\bin\Debug\net9.0\LINQ_Töö.deps.json
+C:\Users\opilane\source\repos\IKTpe25TarProgemine1\03.03.2026\LINQ_Töö\LINQ_Töö\bin\Debug\net9.0\LINQ_Töö.runtimeconfig.json
+C:\Users\opilane\source\repos\IKTpe25TarProgemine1\03.03.2026\LINQ_Töö\LINQ_Töö\bin\Debug\net9.0\LINQ_Töö.dll
+C:\Users\opilane\source\repos\IKTpe25TarProgemine1\03.03.2026\LINQ_Töö\LINQ_Töö\bin\Debug\net9.0\LINQ_Töö.pdb
+C:\Users\opilane\source\repos\IKTpe25TarProgemine1\03.03.2026\LINQ_Töö\LINQ_Töö\obj\Debug\net9.0\LINQ_Töö.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\source\repos\IKTpe25TarProgemine1\03.03.2026\LINQ_Töö\LINQ_Töö\obj\Debug\net9.0\LINQ_Töö.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\IKTpe25TarProgemine1\03.03.2026\LINQ_Töö\LINQ_Töö\obj\Debug\net9.0\LINQ_Töö.AssemblyInfo.cs
+C:\Users\opilane\source\repos\IKTpe25TarProgemine1\03.03.2026\LINQ_Töö\LINQ_Töö\obj\Debug\net9.0\LINQ_Töö.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\IKTpe25TarProgemine1\03.03.2026\LINQ_Töö\LINQ_Töö\obj\Debug\net9.0\LINQ_Töö.dll
+C:\Users\opilane\source\repos\IKTpe25TarProgemine1\03.03.2026\LINQ_Töö\LINQ_Töö\obj\Debug\net9.0\refint\LINQ_Töö.dll
+C:\Users\opilane\source\repos\IKTpe25TarProgemine1\03.03.2026\LINQ_Töö\LINQ_Töö\obj\Debug\net9.0\LINQ_Töö.pdb
+C:\Users\opilane\source\repos\IKTpe25TarProgemine1\03.03.2026\LINQ_Töö\LINQ_Töö\obj\Debug\net9.0\LINQ_Töö.genruntimeconfig.cache
+C:\Users\opilane\source\repos\IKTpe25TarProgemine1\03.03.2026\LINQ_Töö\LINQ_Töö\obj\Debug\net9.0\ref\LINQ_Töö.dll
